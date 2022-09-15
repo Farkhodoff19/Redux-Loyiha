@@ -1,0 +1,30 @@
+{
+    "news" : [
+        {
+            "id" : 1,
+            "name" : "My name is Farkhodoff",
+            "description" : "I'm Front-end Developer",
+            "category": "Subject"
+        }, 
+        {
+            "id" : 2,
+            "name" : "My names Azizbek",
+            "description": "I'm Hardware-Engineer",
+            "category": "Study"
+        },
+        {
+            "id" : 3,
+            "name" : "My names Azizbek",
+            "description": "I'm Hardware-Engineer",
+            "category": "Study"
+        },
+        {
+            "id" : 4,
+            "name" : "My names Azizbek",
+            "description": "I'm Hardware-Engineer",
+            "category": "Study"
+        }
+    ],
+    "filter" : ["all", "hot", "sport", "world"] 
+}
+
